@@ -6,10 +6,7 @@
 </p>
 
 
-## Solve Me First
-[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) at HackerRank Site.
 
-My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java)
 
 ## Simple Array Sum
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) at HackerRank Site.
@@ -23,4 +20,6 @@ My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolvin
 
 | - |                                                          Challenge                                                         | Solution |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
-|  0  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java)
+|  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java)
+
+|  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SimpleArraySum/Solution.java)
