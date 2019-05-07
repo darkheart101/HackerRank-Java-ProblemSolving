@@ -9,10 +9,10 @@
 
 | - |                                                          Challenge                                                         | Solution |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
-|  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java) |
-|  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SimpleArraySum/Solution.java) |
-|  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/CompareTheTriplets/Solution.java) |
-|  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/Mini-Max%20Sum/Solution.java) |
+|  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/1.SolveMeFirst/Solution.java) |
+|  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/2.SimpleArraySum/Solution.java) |
+|  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/3.CompareTheTriplets/Solution.java) |
+|  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/4.MiniMaxSum/Solution.java) |
 
 
 
