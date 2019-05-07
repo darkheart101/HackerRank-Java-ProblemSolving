@@ -20,3 +20,6 @@ My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolvin
 [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) at HackerRank Site.
 
 My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/CompareTheTriplets/Solution.java)
+
+
+|  0  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                                       |   30   | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java)
