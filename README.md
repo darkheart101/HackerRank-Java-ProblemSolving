@@ -21,7 +21,5 @@ My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolvin
 | - |                                                          Challenge                                                         | Solution |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 |  1  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java) |
-
 |  2  | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SimpleArraySum/Solution.java) |
-
 |  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/CompareTheTriplets/Solution.java) |
