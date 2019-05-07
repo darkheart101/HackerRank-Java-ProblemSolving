@@ -1,21 +1,11 @@
-/*
-    Problem Description: Check Inluded PDF
- */
-package SimpleArraySum;
-
 /**
- *
+ * HackerRank URL: https://www.hackerrank.com/challenges/simple-array-sum/problem
  * @author Thodoris Kouleris
  */
-import java.io.*;
 import java.util.*;
 
-
 public class Solution {
-
-    /*
-     * Complete the simpleArraySum function below.
-     */
+        
     static int simpleArraySum(int[] ar) {
         int arrayItemSum = 0;
         
@@ -23,30 +13,21 @@ public class Solution {
             arrayItemSum += ar[i];
         
         return arrayItemSum;
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
 
-    public static void main(String[] args) throws IOException {
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
-
+    public static void main(String[] args) {
+        
         int arCount = Integer.parseInt(scanner.nextLine().trim());
-
-        int[] ar = new int[arCount];
-
-        String[] arItems = scanner.nextLine().split(" ");
-
-        for (int arItr = 0; arItr < arCount; arItr++) {
-            int arItem = Integer.parseInt(arItems[arItr].trim());
-            ar[arItr] = arItem;
-        }
-
+        int[] ar = new int[arCount];        
+        
+        //Scanner kb = new Scanner(System.in);      
+        for(int i = 0; i < ar.length; i++)            
+            ar[i] = scanner.nextInt();        
+        
         int result = simpleArraySum(ar);
-
-        bufferedWriter.write(String.valueOf(result));
-        bufferedWriter.newLine();
-
-        bufferedWriter.close();
+        
+        System.out.println(result);
     }
 }
