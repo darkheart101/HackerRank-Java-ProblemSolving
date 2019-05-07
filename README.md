@@ -21,5 +21,6 @@ My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolvin
 
 My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/CompareTheTriplets/Solution.java)
 
-
-|  0  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)                                       |   30   | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java)
+| - |                                                          Challenge                                                         | Solution |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+|  0  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SoliveMeFirst/Solution.java)
