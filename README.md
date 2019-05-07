@@ -15,3 +15,8 @@ My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolvin
 [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) at HackerRank Site.
 
 My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SimpleArraySum/Solution.java)
+
+## Compare the Triplets
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) at HackerRank Site.
+
+My solution [here](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/SimpleArraySum/Solution.java)
