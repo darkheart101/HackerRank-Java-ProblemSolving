@@ -14,5 +14,10 @@
 |  3  | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/3.CompareTheTriplets/Solution.java) |
 |  4  | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/4.MiniMaxSum/Solution.java) |
 |  5  | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/5.UtopianTree/Solution.java) |
+|  6  | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/6.AngryProfessor/Solution.java) |
+
+
+
+
 
 
