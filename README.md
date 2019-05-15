@@ -18,6 +18,7 @@
 |  7  | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/7.BeautifulDaysAtTheMovies/Solution.java) |
 |  8  | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/8.ViralAdvertising/Solution.java) |
 |  9  | [Forming a magic square](https://www.hackerrank.com/challenges/magic-square-forming/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/9.FormingAMagicSquare/Solution.java) |
+|  10  | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution.java](https://github.com/darkheart101/HackerRank-Java-ProblemSolving/blob/master/10.TheHurdleRace/Solution.java) |
 
 
 
